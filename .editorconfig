@@ -1,0 +1,12 @@
+root = true
+
+[*]
+tab_width = 4
+indent_size = 4
+indent_style = space
+charset = utf-8
+trim_trailing_whitespace = true
+
+[*.py]
+indent_style = space
+indent_size = 4
